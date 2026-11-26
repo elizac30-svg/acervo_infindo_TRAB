@@ -7,13 +7,13 @@
 
  # arquivos do trabalho:
 
- cadastros_listas >
- &nbsp;&nbsp;dados_itens.py
- &nbsp;&nbsp;dados_categorias.py
- utils.py
- bancos.py
- main.py
-
+ cadastros_listas >                     
+ &nbsp;&nbsp;dados_itens.py                   
+ &nbsp;&nbsp;dados_categorias.py                       
+ utils.py                          
+ bancos.py                               
+ main.py                              
+  
 
 
 
