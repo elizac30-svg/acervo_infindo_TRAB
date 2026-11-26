@@ -13,7 +13,12 @@
  &nbsp;&nbsp;&nbsp;-dados_categorias.py                       
  -utils.py                          
  -bancos.py                               
- -main.py                              
+ -main.py 
+
+ # tabelas do trabalho:
+
+ *itens* (nome, id, data_catalogo, decada_origem, categoria)                                            
+ *categorias* (nome, id)
   
 
 
