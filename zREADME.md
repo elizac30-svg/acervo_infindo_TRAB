@@ -11,14 +11,15 @@
  cadastros_listas >                    
  &nbsp;&nbsp;&nbsp;-dados_itens.py                   
  &nbsp;&nbsp;&nbsp;-dados_categorias.py                       
- -utils.py                          
- -bancos.py                               
- -main.py 
+ -utils.py                              
+ -bancos.py                                
+ -main.py               
 
  # tabelas do trabalho:
 
  *itens* (nome, id, data_catalogo, decada_origem, categoria)                                                
  *categorias* (nome, id)                  
+ *retirados* (nome, id, data_catalogo, data_retirada)
   
 
 
