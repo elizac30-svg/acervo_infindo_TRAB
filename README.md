@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Analuz Ramos Barros.      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elliot.
 
- Esse acervo é uma fenda dimensional onde tudo e qualquer coisa que foi perdida pode ( ou não ) estar lá e, e criaturas ou pessoas vão e deixam qualquer coisa ou objeto lá. O sistema visa catalogar esses objetos e dar ao cliente a liberdade de criar um novo catálogo para itens novos.
+ Esse acervo é uma fenda dimensional onde tudo e qualquer coisa que foi perdida pode ( ou não ) estar lá. Nesse lugar, criaturas ou pessoas deixam qualquer coisa ou objeto. O sistema visa catalogar esses objetos e dar ao cliente a liberdade de criar um novo catálogo para itens novos.
 
  # arquivos do trabalho:
 
