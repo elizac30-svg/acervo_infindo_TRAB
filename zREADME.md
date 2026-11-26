@@ -8,7 +8,7 @@
 
  # arquivos do trabalho:
 
- cadastros_listas >                 
+ cadastros_listas >                    
  &nbsp;&nbsp;&nbsp;-dados_itens.py                   
  &nbsp;&nbsp;&nbsp;-dados_categorias.py                       
  -utils.py                          
